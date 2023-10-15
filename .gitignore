@@ -1,0 +1,44 @@
+# 忽略虚拟环境文件夹
+venv/
+env/
+virtualenv/
+
+# 忽略依赖包文件夹
+__pycache__/
+dist/
+build/
+
+# 忽略编译文件
+*.pyc
+*.pyo
+
+# 忽略日志文件夹
+logs/
+log/
+
+# 忽略临时文件夹
+tmp/
+temp/
+
+# 忽略数据库文件
+*.db
+*.sqlite
+
+# 忽略配置文件
+*.ini
+*.conf
+
+# 忽略敏感信息文件
+*.env
+*.key
+
+# 忽略IDE配置文件夹
+.vscode/
+.idea/
+
+# 忽略编辑器临时文件
+*.swp
+*.swo
+
+# 忽略配置文件
+config.py

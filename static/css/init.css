@@ -1,0 +1,13 @@
+body{
+    background-color: #f3f3f3;
+}
+
+#avatar{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: #1b1e21 1px solid;
+    background-position: center center;
+    background-size: cover;
+
+}
